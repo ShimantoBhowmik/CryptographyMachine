@@ -1,0 +1,4 @@
+This is a CrptoMachine which translates only the letters of the alphabet.
+Here a is encrypted to !
+b is encrypted to a
+c is encrypted to b and so on
